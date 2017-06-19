@@ -1,16 +1,16 @@
-#Product Systems & Ops Coding testing for engineers 
+# Product Systems & Ops Coding testing for engineers 
 
 This repository provides a code test for Product Systems & Ops Engineers.
 
 You have to implement a user story defined in this [document](./docs/stories.md).
 
-##Stack Installation
+## Stack Installation
 
 ```
  ~ npm install
 ```
 
-###Run Server
+### Run Server
 
 ```
  ~ npm start
@@ -18,7 +18,7 @@ You have to implement a user story defined in this [document](./docs/stories.md)
 
 Open `http://localhost:3000`
 
-###Resources
+### Resources
 
 ```
   http://localhost:3000/properties
