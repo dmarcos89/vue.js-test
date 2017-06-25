@@ -5,28 +5,28 @@ In order to start json server:
 ## Installation
 
 ```
- ~ npm install
+ npm install
 ```
 
 ### Run Server
 
 ```
- ~ npm start
+ npm start
 ```
 
 
 ### Then, install dependencies and run the vue.js app
 
 ```
-   ~ cd webapp
+ cd webapp
 ```
 
 ```
-   ~ npm install
+ npm install
 ```
 
 ```
-   ~ npm run dev
+ npm run dev
 ```
 
 :thumbsup:
