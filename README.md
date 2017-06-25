@@ -15,7 +15,11 @@ In order to start json server:
 ```
 
 
-### Then, install the vue.js dependencies
+### Then, install dependencies and run the vue.js app
+
+```
+   ~ cd webapp
+```
 
 ```
    ~ npm install
@@ -24,3 +28,5 @@ In order to start json server:
 ```
    ~ npm run dev
 ```
+
+:thumbsup:
