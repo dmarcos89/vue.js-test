@@ -1,10 +1,8 @@
-# Product Systems & Ops Coding testing for engineers 
+# Vuejs test
 
-This repository provides a code test for Product Systems & Ops Engineers.
+In order to start json server:
 
-You have to implement a user story defined in this [document](./docs/stories.md).
-
-## Stack Installation
+## Installation
 
 ```
  ~ npm install
@@ -16,24 +14,13 @@ You have to implement a user story defined in this [document](./docs/stories.md)
  ~ npm start
 ```
 
-Open `http://localhost:3000`
 
-### Resources
+### Then, install the vue.js dependencies
 
 ```
-  http://localhost:3000/properties
-  http://localhost:3000/markets
-  http://localhost:3000/countries
+   ~ npm install
 ```
 
-Alternatively, you can deploy your own copy of the app using this button:
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-### Refs
- * Check json-server: https://github.com/typicode/json-server
-
-
-# Exercise 
-
-[Check this documentation](./docs/stories.md)
+```
+   ~ npm run dev
+```

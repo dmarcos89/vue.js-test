@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "json-server" : "0.8.8"
+    "json-server": "0.8.8"
   },
   "scripts": {
     "start": "json-server --watch db.json"
